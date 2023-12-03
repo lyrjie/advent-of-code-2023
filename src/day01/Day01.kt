@@ -1,3 +1,7 @@
+package day01
+
+import getInput
+import println
 import kotlin.io.path.useLines
 
 fun part1(input: Sequence<String>): Int {
